@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://chengpeter.github.io/"/>
   <updated>2017-11-27T03:52:24.329Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://chengpeter.github.io/</id>
   
   <author>
     <name>PeterCheng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>my first</title>
-    <link href="http://yoursite.com/2017/11/27/my-first/"/>
-    <id>http://yoursite.com/2017/11/27/my-first/</id>
+    <link href="https://chengpeter.github.io/2017/11/27/my-first/"/>
+    <id>https://chengpeter.github.io/2017/11/27/my-first/</id>
     <published>2017-11-27T03:04:45.000Z</published>
     <updated>2017-11-27T03:52:24.329Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/11/23/hello-world/"/>
-    <id>http://yoursite.com/2017/11/23/hello-world/</id>
+    <link href="https://chengpeter.github.io/2017/11/23/hello-world/"/>
+    <id>https://chengpeter.github.io/2017/11/23/hello-world/</id>
     <published>2017-11-23T12:23:30.703Z</published>
     <updated>2017-11-27T09:26:21.730Z</updated>
     
@@ -49,9 +49,9 @@
     </summary>
     
     
-      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+      <category term="Testing" scheme="https://chengpeter.github.io/tags/Testing/"/>
     
-      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+      <category term="Another Tag" scheme="https://chengpeter.github.io/tags/Another-Tag/"/>
     
   </entry>
   
